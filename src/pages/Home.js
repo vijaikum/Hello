@@ -11,6 +11,7 @@ const Home = () => {
         <div className="otherLinks">
           <Link to="/page1">Argentina</Link>
           <Link to="/page2">Nigeria</Link>
+          <p>Hi Guys Testing the automted deployment</p>
         </div>
       </div>
       <div className="flagBottom" />
